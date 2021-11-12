@@ -1,3 +1,3 @@
 # Codeforces
 
-Solutions of problems set on Codeforces.
+Solutions of problem set on Codeforces.
